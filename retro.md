@@ -1,4 +1,5 @@
 # Retrospektiivit
+#
 
 **Start, Stop, Continue, More of, Less of Wheel** on retrospektiivi-menetelmä, jossa piirretään iso ympyrä, joka jaetaan viiteen sektoriin jotka nimetään menetelmän otsikon mukaisesti. Sitten näihin sektorit täytetään keskustelun aikana niillä asioilla joita tulisi *alkaa tehdä*, jotka *tulisi lopettaa*, joita *tulisi jatkaa samoin*, joita *lisätä* ja joita *vähentää*. Retrospektiivin kesto on yleensä noin 10-25min joten se on helppo ja nopea tapa tehdä retrospektiivi, josta  visuaalisen puolen avulla näkee helposti miten tulisi jatkossa toimia.
 
