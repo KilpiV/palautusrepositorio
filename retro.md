@@ -1,6 +1,5 @@
 # Retrospektiivit
 #
-
 **Start, Stop, Continue, More of, Less of Wheel** on retrospektiivi-menetelmä, jossa piirretään iso ympyrä, joka jaetaan viiteen sektoriin jotka nimetään menetelmän otsikon mukaisesti. Sitten näihin sektorit täytetään keskustelun aikana niillä asioilla joita tulisi *alkaa tehdä*, jotka *tulisi lopettaa*, joita *tulisi jatkaa samoin*, joita *lisätä* ja joita *vähentää*. Retrospektiivin kesto on yleensä noin 10-25min joten se on helppo ja nopea tapa tehdä retrospektiivi, josta  visuaalisen puolen avulla näkee helposti miten tulisi jatkossa toimia.
 
 **Glad, Sad, Mad** on toinen retrospektiivi tapa joka vie enemmän aikaa, mutta jossa myös käydään tarkemmin tärkeimmiksi koetut asiat läpi. Siinä ensiksi kaikki listaavat ongelmat, muutokset ja huomiot sprintin ajalta, jotka sitten esitellään pikaisesti ja jaetaan *glad*, *sad* ja *mad* kategorioihin sen mukaan miltä ne kirjoittajasta tuntuivat. Yksi tiimin jäsenistä jaottelee sitten nämä suuremmiksi kokonaisuuksiksi, jotka sitten äänestyksessä laitetaan tärkeysjärjestykseen. Lopuksi asiakokonaisuuksista keskustellaan järjestyksessä kunnes kaikki on käyty läpi tai tunti on tullut täyteen.
