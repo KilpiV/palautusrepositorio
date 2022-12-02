@@ -65,21 +65,6 @@ class Kayttoliittyma:
         return self._syote_kentta.get()
 
     def _suorita_komento(self, komento):
-#        arvo = 0
-
- #       try:
-  #          arvo = int(self._syote_kentta.get())
-   #     except Exception:
-    #        pass
-
-     #   if komento == Komento.SUMMA:
-      #      self._sovellus.plus(arvo)
-       # elif komento == Komento.EROTUS:
-        #    self._sovellus.miinus(arvo)
-#        elif komento == Komento.NOLLAUS:
- #           self._sovellus.nollaa()
-  #      elif komento == Komento.KUMOA:
-   #         pass
         komento_olio = self._komennot[komento]
         self._viimeisin_komento = komento_olio
         komento_olio.suorita()
